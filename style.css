@@ -1,0 +1,17 @@
+img {
+    
+    width: 30%;
+    /* Calculates the margin to be even */
+   margin: calc(10%/6);
+}
+
+#mainHeading {
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    padding: 2% 0;
+    text-transform: uppercase;
+    border-bottom:2px solid #f1f1f1 ;
+    width: 30%;
+    margin-left: calc(10%/6);
+}
